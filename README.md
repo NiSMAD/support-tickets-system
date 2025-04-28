@@ -6,7 +6,7 @@
 
 A simple and intuitive interface for handling support tickets, built with Vue 3 and Tailwind CSS.
 
-## ✨ Features
+## 🧠 Features
 
 - **Create New Tickets**  
   Submit tickets with title and description
@@ -21,7 +21,7 @@ A simple and intuitive interface for handling support tickets, built with Vue 3 
 
 - **Framework**: [Vue 3](https://vuejs.org/) (Composition API)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Build Tool**: [Vue](https://vuejs.org/)
 
 ## 🚀 Quick Start
 
